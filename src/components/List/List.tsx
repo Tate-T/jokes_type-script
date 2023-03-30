@@ -4,7 +4,6 @@ import Button from '@mui/material/Button';
 import {
   addJoke,
   deleteJoke,
-  Joke,
   requestJokes,
   requestRefreshJokes,
 } from '../../redux/jokesReducer';
