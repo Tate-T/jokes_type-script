@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tate-T/jokes_type-script.git/static/css/main.384288d3.css",
-    "main.js": "/Tate-T/jokes_type-script.git/static/js/main.9655671d.js",
-    "index.html": "/Tate-T/jokes_type-script.git/index.html",
-    "main.384288d3.css.map": "/Tate-T/jokes_type-script.git/static/css/main.384288d3.css.map",
-    "main.9655671d.js.map": "/Tate-T/jokes_type-script.git/static/js/main.9655671d.js.map"
+    "main.css": "/jokes_type-script/static/css/main.384288d3.css",
+    "main.js": "/jokes_type-script/static/js/main.9655671d.js",
+    "index.html": "/jokes_type-script/index.html",
+    "main.384288d3.css.map": "/jokes_type-script/static/css/main.384288d3.css.map",
+    "main.9655671d.js.map": "/jokes_type-script/static/js/main.9655671d.js.map"
   },
   "entrypoints": [
     "static/css/main.384288d3.css",
